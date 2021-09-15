@@ -3,6 +3,7 @@
 
 [Link](https://discord.com/api/oauth2/authorize?client_id=443415127048585226&permissions=8&scope=bot)
 
+
 ## 🚀 Getting Started 
 
 ```
