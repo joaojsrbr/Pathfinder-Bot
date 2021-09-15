@@ -3,11 +3,10 @@
   "version": "0.1.0",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "João Vitor <joaovitor.jsr@gmail.com>",
   "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "homepage": "https://github.com/joaojsrbr/Pathfinder-Bot",
+  "repository": "github:joaojsrbr/Pathfinder-Bot",
   "engines": {
     "node": ">=14.0.0"
   },
