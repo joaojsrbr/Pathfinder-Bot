@@ -53,7 +53,6 @@ Currently available locales are:
 - Thai (th)
 - Turkish (tr)
 - Vietnamese (vi)
-- Check [Contributing](#-contributing) if you wish to help add more languages!
 
 ## 📝 Features & Commands
 
@@ -106,17 +105,6 @@ Examples: `1` or `1,2,3`
 * Help (-help, -h)
 * Media Controls via Reactions
 
-
-
-## 🤝 Contributing
-
-1. [Fork the repository](https://github.com/eritislami/Pathfinder-Bot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/Pathfinder-Bot.git`
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Stage changes `git add .`
-5. Commit your changes: `cz` OR `npm run commit` do not use `git commit`
-6. Push to the branch: `git push origin my-new-feature`
-7. Submit a pull request
 
 
 
