@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "TOKEN": "",
   "YOUTUBE_API_KEY": "",
@@ -9,4 +10,17 @@
   "STAY_TIME": 90,
   "DEFAULT_VOLUME": 100
   
+=======
+{
+  "TOKEN": "",
+  "YOUTUBE_API_KEY": "",
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 25,
+  "PREFIX": "-",
+  "PRUNING": false,
+  "LOCALE": "pt_br",
+  "STAY_TIME": 90,
+  "DEFAULT_VOLUME": 100
+  
+>>>>>>> d76a2939e717cfec62ab9eddc9d582b9758076ea
 }
