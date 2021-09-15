@@ -1,7 +1,7 @@
 ![logo](https://media2.giphy.com/media/3003MwjfivhWUU55XX/giphy.gif?cid=ecf05e47gap1eok9cx50a80dme14d1zc6n56jogouihyr79r&rid=giphy.gif&ct=g)
 ## 🚀 Invitation Link
 
-[Link](https://discord.com/api/oauth2/authorize?client_id=443415127048585226&permissions=8&scope=bot)
+<a href="https://discord.com/api/oauth2/authorize?client_id=443415127048585226&permissions=8&scope=bot" target="_blank">Link</a>
 
 ## 🚀 Getting Started 
 
