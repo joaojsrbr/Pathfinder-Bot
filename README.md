@@ -53,7 +53,6 @@ Currently available locales are:
 - Thai (th)
 - Turkish (tr)
 - Vietnamese (vi)
-- Check [Contributing](#-contributing) if you wish to help add more languages!
 
 ## 📝 Features & Commands
 
